@@ -1,0 +1,25 @@
+INFO:  2018-11-19 13:45:56,461 - sparkmonitorkernel - 5875 - MainProcess -         140093447656768 - MainThread
+ Starting Kernel Extension 
+
+INFO:  2018-11-19 13:45:56,463 - sparkmonitorkernel - 5875 - MainProcess -         140093447656768 - MainThread
+ Socket Listening on port 56851 
+
+INFO:  2018-11-19 13:45:56,465 - sparkmonitorkernel - 5875 - MainProcess -         140092405106432 - Thread-4
+ Starting socket thread, going to accept 
+
+INFO:  2018-11-19 13:45:56,465 - sparkmonitorkernel - 5875 - MainProcess -         140093447656768 - MainThread
+ 56851 
+
+INFO:  2018-11-19 13:45:56,466 - sparkmonitorkernel - 5875 - MainProcess -         140093447656768 - MainThread
+ Adding jar from /usr/local/lib/python3.6/site-packages/sparkmonitor/listener.jar  
+
+INFO:  2018-11-19 13:45:56,544 - sparkmonitorkernel - 5875 - MainProcess -         140093447656768 - MainThread
+ COMM OPENED MESSAGE: 
+ {'header': {'msg_id': '2bc74e178b9b4e8194379e4f4becaf20', 'username': 'username', 'session': '0dbb96ab24d04e0ba09bd4ab6a4276c3', 'msg_type': 'comm_open', 'version': '5.2', 'date': datetime.datetime(2018, 11, 19, 10, 45, 56, 531937, tzinfo=tzutc())}, 'msg_id': '2bc74e178b9b4e8194379e4f4becaf20', 'msg_type': 'comm_open', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '3f0fb91fe92b4d0183c407e198f0fba7', 'target_name': 'SparkMonitor', 'data': {'msgtype': 'openfromfrontend'}}, 'buffers': []} 
+ 
+
+INFO:  2018-11-19 13:45:56,564 - sparkmonitorkernel - 5875 - MainProcess -         140093447656768 - MainThread
+ COMM OPENED MESSAGE: 
+ {'header': {'msg_id': '96a88eea47d742d6abd02d4406e45372', 'username': 'username', 'session': '0dbb96ab24d04e0ba09bd4ab6a4276c3', 'msg_type': 'comm_open', 'version': '5.2', 'date': datetime.datetime(2018, 11, 19, 10, 45, 56, 558658, tzinfo=tzutc())}, 'msg_id': '96a88eea47d742d6abd02d4406e45372', 'msg_type': 'comm_open', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': '4dbbf75c456843008e10b79c7f4d6c3b', 'target_name': 'SparkMonitor', 'data': {'msgtype': 'openfromfrontend'}}, 'buffers': []} 
+ 
+

@@ -1,0 +1,20 @@
+INFO:  2018-11-19 13:45:59,403 - sparkmonitorkernel - 5896 - MainProcess -         139692008961344 - MainThread
+ Starting Kernel Extension 
+
+INFO:  2018-11-19 13:45:59,403 - sparkmonitorkernel - 5896 - MainProcess -         139692008961344 - MainThread
+ Socket Listening on port 60679 
+
+INFO:  2018-11-19 13:45:59,404 - sparkmonitorkernel - 5896 - MainProcess -         139690966390528 - Thread-4
+ Starting socket thread, going to accept 
+
+INFO:  2018-11-19 13:45:59,405 - sparkmonitorkernel - 5896 - MainProcess -         139692008961344 - MainThread
+ 60679 
+
+INFO:  2018-11-19 13:45:59,405 - sparkmonitorkernel - 5896 - MainProcess -         139692008961344 - MainThread
+ Adding jar from /usr/local/lib/python3.6/site-packages/sparkmonitor/listener.jar  
+
+INFO:  2018-11-19 13:46:02,495 - sparkmonitorkernel - 5896 - MainProcess -         139692008961344 - MainThread
+ COMM OPENED MESSAGE: 
+ {'header': {'msg_id': '39dbd2a48d0c4b9088ca08b11996e320', 'username': 'username', 'session': 'fc835f96617f4eda9c24b71a98940ac6', 'msg_type': 'comm_open', 'version': '5.2', 'date': datetime.datetime(2018, 11, 19, 10, 46, 2, 491589, tzinfo=tzutc())}, 'msg_id': '39dbd2a48d0c4b9088ca08b11996e320', 'msg_type': 'comm_open', 'parent_header': {}, 'metadata': {}, 'content': {'comm_id': 'f9edb7d652a64eac8293eca69dc4b0fd', 'target_name': 'SparkMonitor', 'data': {'msgtype': 'openfromfrontend'}}, 'buffers': []} 
+ 
+
